@@ -1,25 +1,25 @@
-### Merhaba, ben Muhammet Miraç 👋
+### Hi, I'm Muhammet Miraç 👋
 
-Full-stack ve otomasyon projeleri geliştiren bir yazılım mühendisliği öğrencisiyim. Remote, Junior seviye fırsatlar arıyorum.
+A software engineering student building full-stack and automation projects. Looking for remote, Junior-level opportunities.
 
-- 🌱 Şu anda Veri Bilimi, C, Java ve SQL üzerinde derinleşiyorum
-- 🛠️ React, Node.js/Express, Django, Python ve Unity (C#) ile uçtan uca projeler kuruyorum
+- 🌱 Currently deepening my skills in Data Science, C, Java, and SQL
+- 🛠️ I build end-to-end projects with React, Node.js/Express, Django, Python, and Unity (C#)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammet-mira%C3%A7-g%C3%BCnd%C3%BCz-10460421b) · ✉️ muhammetmiracgunduz@gmail.com
 
 ---
 
-### 🚀 Öne çıkan projeler
+### 🚀 Featured projects
 
-| Proje | Açıklama | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [intern-opportunity-tracker](https://github.com/Miracgunduz/intern-opportunity-tracker) | Junior geliştiriciler için ücretsiz staj/sertifika/hackathon fırsatlarını tarayan, LLM ile filtreleyen, Notion'a senkronize eden ve Telegram'dan bildirim gönderen otomasyon hattı | Python, GitHub Actions, LLM, Notion API |
-| [forme](https://github.com/Miracgunduz/forme) | USDA ve Open Food Facts entegrasyonlu full-stack kalori/makro takip uygulaması | React, Node.js/Express, Prisma |
-| [spotter-project](https://github.com/Miracgunduz/spotter-project) | Kamyon şoförleri için FMCSA uyumlu rota planlayıcı ve ELD günlük oluşturucu | Django, React |
-| [fish-match](https://github.com/Miracgunduz/fish-match) | Kalıcı akvaryum ve balık koleksiyon sistemine sahip Unity match-3 bulmaca oyunu | Unity 6, C# |
+| [intern-opportunity-tracker](https://github.com/Miracgunduz/intern-opportunity-tracker) | Automated tracker that scans free internship/certification/hackathon opportunities for junior developers, filters them with an LLM gatekeeper, syncs to Notion, and sends Telegram alerts | Python, GitHub Actions, LLM, Notion API |
+| [forme](https://github.com/Miracgunduz/forme) | Full-stack calorie/macro tracker with USDA and Open Food Facts food-data integration | React, Node.js/Express, Prisma |
+| [spotter-project](https://github.com/Miracgunduz/spotter-project) | FMCSA-compliant trip planner and ELD log generator for truck drivers | Django, React |
+| [fish-match](https://github.com/Miracgunduz/fish-match) | Unity match-3 puzzle game with a persistent aquarium and fish collection system | Unity 6, C# |
 
 ---
 
-### 🧰 Teknolojiler
+### 🧰 Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
