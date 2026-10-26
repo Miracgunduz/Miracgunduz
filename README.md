@@ -1,30 +1,16 @@
-### Hi, I'm Muhammet Miraç 👋
+# Muhammet Miraç Gündüz
 
-A software engineering student building full-stack and automation projects. Looking for remote, Junior-level opportunities.
+Software engineering student based in Turkey, building full-stack and automation projects in my spare time. Looking for remote, junior-level roles.
 
-- 🌱 Currently deepening my skills in Data Science, C, Java, and SQL
-- 🛠️ I build end-to-end projects with React, Node.js/Express, Django, Python, and Unity (C#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammet-mira%C3%A7-g%C3%BCnd%C3%BCz-10460421b) · ✉️ muhammetmiracgunduz@gmail.com
+Most of what I build ends up being a web app with some kind of automation pipeline behind it — I like taking messy input (job listings, Reddit threads, food databases, trucking regulations) and turning it into something that's actually usable.
 
----
+A few things I've built:
 
-### 🚀 Featured projects
+- **[intern-opportunity-tracker](https://github.com/Miracgunduz/intern-opportunity-tracker)** — scans free internship, certification, and hackathon listings daily, filters them with an LLM so I'm not reading through junk, and pushes the useful ones to Notion and Telegram.
+- **[forme](https://github.com/Miracgunduz/forme)** — a calorie and macro tracker that pulls from real food databases (USDA, Open Food Facts) instead of guesswork.
+- **[spotter-project](https://github.com/Miracgunduz/spotter-project)** — a trip planner for truck drivers that simulates FMCSA hours-of-service rules and renders the resulting ELD log.
+- **[fish-match](https://github.com/Miracgunduz/fish-match)** — a Unity match-3 game where winning matches feed and grow an aquarium.
 
-| Project | Description | Stack |
-|---|---|---|
-| [intern-opportunity-tracker](https://github.com/Miracgunduz/intern-opportunity-tracker) | Automated tracker that scans free internship/certification/hackathon opportunities for junior developers, filters them with an LLM gatekeeper, syncs to Notion, and sends Telegram alerts | Python, GitHub Actions, LLM, Notion API |
-| [forme](https://github.com/Miracgunduz/forme) | Full-stack calorie/macro tracker with USDA and Open Food Facts food-data integration | React, Node.js/Express, Prisma |
-| [spotter-project](https://github.com/Miracgunduz/spotter-project) | FMCSA-compliant trip planner and ELD log generator for truck drivers | Django, React |
-| [fish-match](https://github.com/Miracgunduz/fish-match) | Unity match-3 puzzle game with a persistent aquarium and fish collection system | Unity 6, C# |
+Stack I work in: Python, React, Node/Express, Django, C# (Unity), SQL.
 
----
-
-### 🧰 Tech stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+muhammetmiracgunduz@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammet-mira%C3%A7-g%C3%BCnd%C3%BCz-10460421b)
